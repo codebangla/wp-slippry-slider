@@ -17,4 +17,4 @@ if(function_exists(cbwps_slider))
 cbwps_slider();
 ?>
 
-4. Upload some images and add title for each post in slippry slider menu of the dashboard
+4. Upload some images and add title for each post in slippry slider menu of the dashboard.
