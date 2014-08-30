@@ -7,7 +7,7 @@ http://slippry.com/
 
 Installation
 ===========
-1.unzip wp-slippry-slider into wp-content/plugins
+1. unzip wp-slippry-slider into wp-content/plugins
 
 2. Install the plugin via dashboard
 
